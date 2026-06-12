@@ -6,7 +6,7 @@ A minimal always-visible buffer list in the top-right corner.
 
 ```lua
 -- lazy.nvim
-{ "yourusername/bufline.nvim" }
+{ "kadam-x/bufline.nvim" }
 ```
 
 ## usage
