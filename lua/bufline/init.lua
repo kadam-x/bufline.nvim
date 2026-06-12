@@ -23,6 +23,10 @@ local function update()
 	end
 
 	local lines = render()
+	if #lines == 0 then
+		return
+	end -- nothing to show, bail early
+
 	local width = 0
 	for _, l in ipairs(lines) do
 		width = math.max(width, #l)
