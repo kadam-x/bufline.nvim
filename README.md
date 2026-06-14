@@ -1,6 +1,6 @@
 # bufline.nvim
 
-A minimal buffer list that appears in the top-right corner when cycling between buffers, opening new ones and disappears after a delay so it's never in the way.
+A minimal buffer list that appears in the top-right corner when cycling between buffers, opening new ones and disappears after a delay so it's never in your way.
 
 ![bufline.nvim](bufline-nvim.png)
 
